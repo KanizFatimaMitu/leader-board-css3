@@ -42,3 +42,11 @@ hr{
 .player-name{
     margin-left: 20px;
 }
+/* top blog styles */
+.blog{
+    display: flex;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
